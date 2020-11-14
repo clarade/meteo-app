@@ -7,6 +7,13 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #f1f1f1;
-    background: linear-gradient(45deg, rgb(59,50,50), rgb(22,28,29));
+    background: linear-gradient(45deg, rgb(36, 35, 35), rgb(22,28,29));
     height: 100vh;
+}
+
+.container {
+    width: 800px;
+    height: 600px;
+    background: linear-gradient(45deg, #366C7D, #6C5B7B, #C06C84, #F67280, #F8B195);
+
 }
